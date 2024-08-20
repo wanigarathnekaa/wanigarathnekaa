@@ -7,11 +7,11 @@
 
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
-- 🔭 I’m currently working on **leaning DevOps and Cloud DevOps**
+🔭 I’m currently working on **leaning DevOps and Cloud DevOps**
 
-- 🌱 I’m currently learning **Computer Science at University of Colombo**
+🌱 I’m currently learning **Computer Science at University of Colombo**
 
-- 👨‍💻 All of my projects are available at [https://github.com/wanigarathnekaa](https://github.com/wanigarathnekaa)
+👨‍💻 All of my projects are available at [https://github.com/wanigarathnekaa](https://github.com/wanigarathnekaa)
 
 <hr/>
 <h3 align="left">Connect with me:</h3>
