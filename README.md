@@ -1,108 +1,96 @@
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Roboto+Mono&size=30&duration=4000&pause=1000&color=2E86C1&center=true&vCenter=true&width=600&lines=Kavisha+Wanigarathne;Research+Engineer+Aspirant;Systems+%26+Network+Security" alt="Typing SVG" />
-</div>
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=600&height=70&duration=4000&lines=Hi+There!+👋;I'm+Kavisha+Wanigarathne;Systems+%26+Network+Security;QUIC+Protocol+Researcher;" alt="Typing SVG" />
+  </a>
+</h1>
 
 <div align="center">
-  <h3>Final Year Computer Science Undergraduate | UCSC</h3>
-  <p><i>Building high-performance systems at the intersection of Networking and AI.</i></p>
+  <h3>💻 Final Year Undergraduate @ UCSC</h3>
+  <h4>Focusing on Network Privacy, Protocol Design & Systems Engineering</h4>
+  <br>
 </div>
 
-<br />
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="500" />
+</div>
 
-### 👨‍💻 Professional Summary
+<br>
 
-I am a Computer Science undergraduate at the **University of Colombo School of Computing (UCSC)** with a reading GPA of **3.71/4.00** [10]. My academic focus lies in **Network Systems, Privacy, and Low-Level Programming**.
+### 👨‍💻 About Me
 
-Currently, I am conducting research on mitigating **Website Fingerprinting Attacks** in the **QUIC protocol** using adaptive padding defenses [22]. I combine academic rigor with industry experience, having engineered automated testing solutions at the **London Stock Exchange Group (LSEG)** [34].
+I am a Computer Science undergraduate at the **University of Colombo School of Computing**, dedicated to solving complex challenges in **Network Security** and **Systems Programming**. My work emphasizes privacy-preserving technologies and low-level protocol optimizations.
 
----
+- 🔭 I’m currently researching **Adaptive Padding Defenses** to mitigate Website Fingerprinting attacks on the **QUIC protocol**.
+- 🌱 I’m specializing in **Network Stack Implementation, Linux Systems, and Traffic Analysis**.
+- 🛠 I possess a strong foundation in **Software Engineering** and **DevOps**.
+- ⚡ **Fun fact:** I love digging into packet captures and kernel-level code!
 
-### 🔬 Research & Academic Focus
+<br>
 
-**Topic:** Adaptive Padding Defense for QUIC Protocol [22]
-* **Objective:** Mitigating traffic analysis and website fingerprinting attacks in encrypted communications.
-* **Implementation:** Engineering a prototype within a custom QUIC server stack to evaluate defense robustness against Deep Learning-based adversaries [23].
-* **Key Challenge:** Balancing the trade-off between privacy guarantees and network performance (latency/bandwidth) [24].
-* **Advisors:** Dr. C. I. Keppetiyagama and Mr. T. N. B. Wijethilake [25].
+<div align="center">
+  <a href="https://linkedin.com/in/kavisha-abhishake" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+  </a>
+  <a href="https://github.com/wanigarathnekaa" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank" />
+  </a>
+  <a href="mailto:wanigarathnekaa@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" />
+  </a>
+</div>
 
----
+<hr/>
 
-### 💼 Professional Experience
+### 🛠️ Technical Arsenal
 
-**Software Engineer Intern | London Stock Exchange Group (LSEG)** *[Nov 2024 - May 2025]* [36]
-* **Automation:** Automated Exchange Manager component testing, significantly reducing manual validation effort [37].
-* **Migration:** Led the migration of Matching Engine component tests from Fortress1 to Fortress2 [38].
-* **DevOps:** Standardized GCOV report generation across projects using shared **Ansible** roles [40].
+<div align="center">
 
-**Undergraduate Teaching Assistant | UCSC** *[May 2025 - Present]* [29]
-* **Subject:** Computer Networks.
-* **Role:** Conducted tutorial sessions on **Wireshark** packet analysis and delivered guest lectures on **IPv6 architecture** [30, 31].
+#### **Research & Systems Programming**
+<p>
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bash_Scripting-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+</p>
 
----
+#### **Full Stack & Development**
+<p>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
+</p>
 
-### 🛠 Technical Proficiency
-
-<div align="left">
-
-**Languages (Systems & Research)**
-<br/>
-<img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white" />
-<img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" />
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
-
-**DevOps & Infrastructure**
-<br/>
-<img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
-<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
-<img src="https://img.shields.io/badge/Ansible-EE0000?style=flat-square&logo=ansible&logoColor=white" />
-<img src="https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white" />
-
-**Web & Database**
-<br/>
-<img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white" />
-<img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
-<img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white" />
-<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
+#### **Tools & Infrastructure**
+<p>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+</p>
 
 </div>
 
----
-
-### 🚀 Selected Projects
-
-<table>
-  <tr>
-    <td width="50%">
-      <h4 align="center">Publisher-Subscriber CLI [55]</h4>
-      <p align="center"><i>Java, Socket Programming</i></p>
-      <p>A robust socket application managing communications across multiple publishers and subscribers, demonstrating core distributed systems concepts.</p>
-    </td>
-    <td width="50%">
-      <h4 align="center">Feebify [44]</h4>
-      <p align="center"><i>Next.js, TypeScript, Spring Boot, Docker</i></p>
-      <p>A SaaS-based form builder and analysis platform. Implemented the form analysis component and fully Dockerized the microservices architecture [49].</p>
-    </td>
-  </tr>
-</table>
-
----
+<hr/>
 
 ### 📊 GitHub Analytics
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=wanigarathnekaa&theme=radical&hide_border=true&border_radius=10" alt="streak stats"/>
   <br/>
+  <br/>
+  
   <img src="https://github-readme-stats.vercel.app/api?username=wanigarathnekaa&count_private=true&show_icons=true&theme=radical&rank_icon=github&border_radius=10&hide_border=true" alt="readme stats" />
+  <br/>
+  <br/>
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=wanigarathnekaa&layout=compact&theme=radical&border_radius=10&hide_border=true&langs_count=8" alt="top langs" />
 </div>
 
 <br/>
 
 <div align="center">
-  <a href="https://linkedin.com/in/kavisha-abhishake">
-    <img src="https://img.shields.io/badge/Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:kavisha.abhishake@gmail.com">
-    <img src="https://img.shields.io/badge/Email_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
+  <img src="https://komarev.com/ghpvc/?username=wanigarathnekaa&style=flat-square&color=blueviolet" alt="Profile Views" />
 </div>
