@@ -4,24 +4,21 @@
 
 <div align="center">
   <h3>Final Year Computer Science Undergraduate | UCSC</h3>
-  <p><i>Explaining the intersection of Distributed Systems, Network Privacy, and AI.</i></p>
 </div>
 
 <br />
 
-### 👨‍💻 About Me
+### About Me
 
 I am a Computer Science undergraduate at the **University of Colombo School of Computing (UCSC)** with a reading GPA of **3.71/4.00**. My passion lies in solving complex low-level engineering problems. I am actively transitioning from general software engineering to **Research Engineering**, with a specific focus on **Network Security** and **Protocol Optimization**.
 
 ---
 
-### 🔬 Research & Core Interests
+### Research & Core Interests
 
 * **Network Privacy:** Currently researching **Adaptive Padding Defenses** to mitigate Website Fingerprinting attacks in the **QUIC protocol**.
 * **Systems Programming:** Deep interest in kernel-level operations, socket programming, and custom server stack implementation.
-* **Artificial Intelligence:** Exploring adversarial machine learning and its application in network traffic analysis.
-* **Infrastructure:** Experienced in automating workflows using **Ansible**, **Docker**, and **Linux** environments.
-
+* **Artificial Intelligence:** Exploring adversarial machine learning and its application in network traffic analysis. 
 ---
 
 ### 🛠 Technical Arsenal
