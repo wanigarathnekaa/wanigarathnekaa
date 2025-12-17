@@ -11,7 +11,7 @@
 
 ---
 
-### 🧠 About Me
+### About Me
 
 I’m a final-year **Computer Science undergraduate** at the **University of Colombo School of Computing (UCSC)** with a GPA of **3.71 / 4.00**.  
 My work lies at the intersection of **network systems** and **security research**, driven by curiosity for **low-level engineering** and **protocol design**.  
@@ -57,12 +57,6 @@ Currently, I’m transitioning towards **Research Engineering**, combining acade
 <div align="center">
 
 <a href="https://github.com/wanigarathnekaa">
-  <img src="https://github-profile-trophy.vercel.app/?username=wanigarathnekaa&theme=radical&no-frame=true&margin-w=15" alt="GitHub trophies" />
-</a>
-
-<br /><br />
-
-<a href="https://github.com/wanigarathnekaa">
   <img src="https://github-readme-stats.vercel.app/api?username=wanigarathnekaa&count_private=true&show_icons=true&theme=radical&rank_icon=github&border_radius=10&hide_border=true" alt="GitHub Stats" />
 </a>
 
@@ -73,11 +67,6 @@ Currently, I’m transitioning towards **Research Engineering**, combining acade
 </a>
 
 <br /><br />
-
-<!-- ✅ FIXED WORKING STREAK STATS (new API) -->
-<a href="https://git.io/streak-stats">
-  <img src="https://streak-stats.demolab.com?user=wanigarathnekaa&theme=radical&hide_border=true&border_radius=10" alt="GitHub Streak" />
-</a>
 
 </div>
 
