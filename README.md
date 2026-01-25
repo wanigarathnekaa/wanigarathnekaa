@@ -1,7 +1,7 @@
 ### 🚀 Hi there! I'm **Kavisha Wanigarathne**
 
 > A passionate **Computer Science Undergraduate** at the University of Colombo School of Computing,  
-> with interests in **Full-Stack Development**, **DevOps**, and **Systems Engineering**.
+> with interests in **Software Engineering**, **Full-Stack Development**, and **DevOps**.
 
 ---
 
