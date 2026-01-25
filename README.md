@@ -1,33 +1,42 @@
-### Hi there 👋 I'm Kavisha :rocket:
+### 🚀 Hi there! I'm **Kavisha Wanigarathne**
 
-### Connect Me Through
+> A passionate **Computer Science Undergraduate** at the University of Colombo School of Computing,  
+> with interests in **Full-Stack Development**, **DevOps**, and **Systems Engineering**.
 
-[![Gmail](https://img.shields.io/badge/-gmail-%23D14836?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:kavisha.abhishake@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=LinkedIn&logoColor=white)](www.linkedin.com/in/kavisha-abhishake)
+---
 
-### Familiar Operating Systems & Tools
+### 🌐 Connect With Me
 
-[![Ubuntu](https://img.shields.io/badge/Ubuntu-%23555555?style=flat&logo=ubuntu&logoColor=white)](https://ubuntu.com/)
-[![Windows](https://img.shields.io/badge/Windows-%23555555?style=flat&logo=windows&logoColor=white)](https://www.microsoft.com/en-us/windows)
-[![Mac](https://img.shields.io/badge/Windows-%23555555?style=flat&logo=windows&logoColor=white)](https://mac.com/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kavisha.abhishake@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kavisha-abhishake)
 
-[![VS Code](https://img.shields.io/badge/IDE-VSCode-%23007ACC?style=flat&logo=Visual-studio-code)](https://code.visualstudio.com/)
-[![IntelliJ IDEA](https://img.shields.io/badge/IDE-IntelliJ%20IDEA-%23007ACC?style=flat&logo=JetBrains)](https://www.jetbrains.com/idea/)
+---
 
-### 🛠 Technical Arsenal
+### 💻 Familiar Operating Systems & Tools
+
+[![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)](https://ubuntu.com/)
+[![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)](https://www.microsoft.com/en-us/windows)
+[![macOS](https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple&logoColor=white)](https://www.apple.com/macos)
+
+[![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
+[![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)](https://www.jetbrains.com/idea/)
+
+---
+
+### 🛠️ Technical Arsenal
 
 <div align="center">
 
-#### 💻 Languages
+#### 💬 Languages
 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
 <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
 
-#### 🌐 Frameworks & Full Stack
+#### ⚙️ Frameworks & Full Stack
 <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" />
 <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
+<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
 <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
 
 #### 🧰 DevOps & Systems
@@ -40,28 +49,25 @@
 
 ---
 
-### 📊 GitHub Analytics
+### 📈 GitHub Analytics
 
 <div align="center">
 
-<!-- GitHub Stats -->
 <a href="https://github.com/wanigarathnekaa">
-  <img src="https://github-readme-stats.vercel.app/api?username=wanigarathnekaa&show_icons=true&count_private=true&theme=radical&border_radius=10" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=wanigarathnekaa&show_icons=true&count_private=true&theme=radical&border_radius=12&hide_border=true" alt="GitHub Stats" height="165px" />
 </a>
 
-<br /><br />
-
-<!-- Top Languages -->
 <a href="https://github.com/wanigarathnekaa">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wanigarathnekaa&layout=compact&theme=radical&border_radius=10&langs_count=6" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wanigarathnekaa&layout=compact&theme=radical&border_radius=12&hide_border=true&langs_count=6" alt="Top Languages" height="165px" />
 </a>
 
 </div>
 
-
 ---
 
-
 <div align="center">
-  <sub>⭐ Maintained with dedication — Kavisha Wanigarathne</sub>
+
+✨ *“Code. Create. Collaborate.”* ✨  
+**Maintained with dedication — Kavisha Wanigarathne**
+
 </div>
